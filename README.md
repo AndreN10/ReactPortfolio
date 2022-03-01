@@ -2,5 +2,5 @@
 
 Use React to create an online CV.
 
-Link: https://andrenguyen-portfolio.netlify.app/
+Link: https://andre10-portfo.netlify.app/
 
